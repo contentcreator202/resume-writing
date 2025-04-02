@@ -139,9 +139,9 @@ margin-top: 20px;
 <h2>Contact Me</h2>
 <p>Let's connect! Reach out via:</p>
 <ul>
-<li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+<li>Email: <a href="mailto:armandruci@gmail.com ">armandruci@gmail.com</a></li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/armandruci" target="_blank">Armand Ruci</a></li>
-<li>Twitter/X: <a href="https://twitter.com/yourhandle" target="_blank">@yourhandle</a></li>
+
 </ul>
 </div>
 
